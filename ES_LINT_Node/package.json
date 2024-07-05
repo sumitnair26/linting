@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "express": "^4.19.2",
+    "typescript": "^5.5.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.6.0",
+    "eslint": "9.x",
+    "globals": "^15.8.0",
+    "typescript-eslint": "^7.15.0"
+  },
+  "name": "es_lint_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
